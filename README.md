@@ -14,7 +14,7 @@ I figured it would be nice to have a free-software, platform-independent OneNote
 * formatting
 * simple, standard on-disk format
 * tablet input
-
+ 
 ## How to install
 
 ![automated build](https://github.com/blackhole89/notekit/workflows/automated%20build/badge.svg)
